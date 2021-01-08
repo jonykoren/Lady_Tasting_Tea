@@ -1,5 +1,4 @@
 # Lady_Tasting_Tea
-A gentle introduction to Fisher's exact test using R and Python
 -------------------------------------------------------------------------
 In the design of experiments in statistics, the lady tasting tea is a randomized experiment devised by Ronald Fisher and reported in his book The Design of Experiments (1935). The experiment is the original exposition of Fisher's notion of a null hypothesis, which is "never proved or established, but is possibly disproved, in the course of experimentation".  
 
