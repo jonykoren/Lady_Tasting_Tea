@@ -1,5 +1,5 @@
 # Lady_Tasting_Tea
-![Medium Article](https://jonykoren.medium.com/lady-tasting-tea-e46f89fbe9e8)  
+![https://jonykoren.medium.com/lady-tasting-tea-e46f89fbe9e8](Medium Article)  
 The story begins when **Sir Ronald Aylmer Fisher** participated in a tea party where a woman called **Muriel Bristol**, claimed to be able to tell if a tea was prepared with milk added to the cup first OR with milk added after the tea was poured.  
 
 Fisher designed an experiment where the lady was presented with 8 random cups of tea, 4 with milk first, 4 with tea first.  
